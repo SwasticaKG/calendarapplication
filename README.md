@@ -1,2 +1,3 @@
 # calendarapplication
-<img width="367" alt="Calendar application" src="https://github.com/SwasticaKG/calendarapplication/assets/126229701/f0839176-8398-4c45-a1e8-5a8af5c9624a">
+<img width="258" alt="Capture" src="https://github.com/SwasticaKG/calendarapplication/assets/126229701/14a41a91-b081-4131-9785-e3c340486f8e">
+
